@@ -1,5 +1,5 @@
 # Miss Hudspith
-🍎 Computer Science Teacher 
+🍎 Computer Science Teacher @ Cramlington Learning Village
 
 👩🏼‍💻 BSc Computer Science (Durham University)
 
